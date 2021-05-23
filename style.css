@@ -1,0 +1,27 @@
+.shapes1,
+.shapes2,
+.shapes3 {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  /* margin-bottom: 25px; */
+  /* float: left; */
+  /* margin-right: 50px; */
+  /* margin-left: 5px; */
+  /* position: relative; */
+  /* box-shadow: 5px -10px 5px (rgba(0, 0, 0, 0.918)); */
+}
+#p {
+  /* font-size: 120%; */
+  text-align: center;
+  /* transform: scale(1.51);s */
+}
+.shapes2,
+.shapes3 {
+  background-color: red;
+  border-radius: 200px;
+  /* margin-left: 100px; */
+}
+.shapes1 {
+  margin-left: 100px;
+}
