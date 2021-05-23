@@ -20,12 +20,12 @@
 .shapes3 {
   background-color: red;
   border-radius: 80px;
-margin-right:100px;
+  /* margin-right: ; */
 
-  margin-left: 100px;
+  margin-left: 50px;
 }
 .shapes1 {
-  margin-left: 100px;
+  margin-left: 70px;
 }
 .m {
   position: absolute;
@@ -33,5 +33,5 @@ margin-right:100px;
   font-weight: bolder;
   font-size: 60%;
   top: 38px;
-  left: 128px;
+  left: 78px;
 }
