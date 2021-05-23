@@ -21,7 +21,7 @@
   background-color: red;
   border-radius: 80px;
 
-  /* margin-left: 100px; */
+  margin-left: 100px;
 }
 .shapes1 {
   margin-left: 100px;
@@ -30,7 +30,7 @@
   position: absolute;
   color: black;
   font-weight: bolder;
-  font-size: 75%;
-  top: 25px;
-  left: 15px;
+  font-size: 60%;
+  top: 38px;
+  left: 128px;
 }

@@ -15,6 +15,6 @@ m.addEventListener(`click`, function () {
       borderRadius: Math.trunc(Math.random() * 400) + `px`,
       height: `100vh`,
     },
-    120000
+    8000
   );
 });
