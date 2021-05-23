@@ -11,8 +11,8 @@ circle.addEventListener(`click`, function () {
       width: `100vh`,
       backgroundColor: `#` + Math.trunc(Math.random() * 16777215).toString(16),
       borderRadius: Math.trunc(Math.random() * 200) + `px`,
-      height: `2000px`,
+      height: `5000px`,
     },
-    4000
+    5000
   );
 });
