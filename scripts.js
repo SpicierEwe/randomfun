@@ -4,8 +4,10 @@
 
 //
 const circle = document.querySelector(`.shapes3`);
+const m = document.querySelector(`.m`);
 
-circle.addEventListener(`click`, function () {
+m.addEventListener(`click`, function () {
+  m.style.display = `none`;
   circle.animate(
     {
       width: `50000px`,
@@ -13,6 +15,6 @@ circle.addEventListener(`click`, function () {
       borderRadius: Math.trunc(Math.random() * 200) + `px`,
       height: `100000px`,
     },
-    5000
+    4000
   );
 });
