@@ -10,10 +10,10 @@ m.addEventListener(`click`, function () {
   m.style.display = `none`;
   circle.animate(
     {
-      width: `50000px`,
+      width: `100vh`,
       backgroundColor: `#` + Math.trunc(Math.random() * 16777215).toString(16),
       borderRadius: Math.trunc(Math.random() * 200) + `px`,
-      height: `100000px`,
+      height: `100vh`,
     },
     120000
   );
